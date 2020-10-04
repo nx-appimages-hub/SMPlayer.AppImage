@@ -1,0 +1,1 @@
+# SMPlayer.AppImage
